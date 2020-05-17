@@ -1,2 +1,4 @@
 # Tandoori_Momos
-Blog Website for COVID
+We are team Tandoori Momos working on a Blog Website
+
+*Happy blogging!*
